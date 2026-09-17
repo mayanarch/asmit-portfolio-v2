@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "repository": "mayanarch/asmit-portfolio-v2",
+  "root": "",
+  "framework": "Vite",
+  "entry": "index.html",
+  "publicDir": "public",
+  "siteUrl": "https://asmit-aayan-mohanty.vercel.app/",
+  "editorOrigin": "https://formacms.app",
+  "contentPath": "public/forma/content.json"
+}
